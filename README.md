@@ -17,6 +17,9 @@ Technology used in this application:
     ```npm i```
     3. To seed with user data, enter `npm run seed` in the terminal.
 
+##
+[screenshot](./assets/img/insomnia.png)
+
 
 ## Support
 
